@@ -10,6 +10,10 @@ To get this program up and running:
 
 2. Download bayseanFilter.py:
 
+3. Create a new folder of your choice to store these files in
+
+4. If your program cannot seem to find the spam.csv file, please check to ensure that your program is looking in the correct directory.
+
 **It's crucial to download the spam.csv file first to prevent any errors when the Python script attempts to locate it.**
 
 ## Customizing Your Data
